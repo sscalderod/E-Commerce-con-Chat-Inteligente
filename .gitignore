@@ -1,0 +1,10 @@
+# Cubre archivos creados en la raíz del repositorio
+# (el proyecto tiene su propio .gitignore en e-commerce-chat-ai/)
+.DS_Store
+.venv/
+venv/
+.env
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
